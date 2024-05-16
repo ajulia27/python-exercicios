@@ -45,4 +45,4 @@ def main():
 
 # Chama a função principal do programa se este arquivo for executado diretamente
 if __name__ == "__main__":
-    main()
+    main()S
